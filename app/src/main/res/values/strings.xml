@@ -1,0 +1,1 @@
+<resources>\n    <string name="app_name">My Flappy Game</string>\n    <string name="welcome_message">Welcome to My Flappy Game!</string>\n    <string name="score">Score: %d</string>\n    <string name="game_over">Game Over!</string>\n</resources>
