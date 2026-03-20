@@ -1,0 +1,27 @@
+# Built application files
+*.apk
+*.ap_
+
+# Files for the ART
+*.dex
+
+# Java class files
+*.class
+
+# Java package files
+*.jar
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# User-specific configurations
+.gradle/
+.settings/
